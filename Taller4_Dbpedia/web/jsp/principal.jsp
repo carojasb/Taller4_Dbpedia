@@ -20,7 +20,7 @@
                 //la condición
                 if (miCampoTexto.length == 0) {
                     alert("Debe colocar la entidad");
-                    return false;
+                    return false; 
                 }
                 return true;
             }
